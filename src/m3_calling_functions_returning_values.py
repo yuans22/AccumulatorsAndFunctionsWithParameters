@@ -161,13 +161,13 @@ def run_test_digits_in_cube():
     # Test 2:
     expected = 9
     answer = digits_in_cube(6)
-    print('Test 1 expected: ', expected)
+    print('Test 2 expected: ', expected)
     print('          actual:',answer)
 
     # Test 3:
     expected = 10
     answer = digits_in_cube(7)
-    print('Test 1 expected: ', expected)
+    print('Test 3 expected: ', expected)
     print('          actual:', answer)
 
 
